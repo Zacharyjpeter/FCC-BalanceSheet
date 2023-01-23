@@ -1,1 +1,9 @@
-# FCC-BalanceSheet
+<h1><a href="https://zacharyjpeter.github.io/FCC-BalanceSheet">Balance Sheet</a></h1>
+A balance sheet that helped me learn more aobut pseudo selectors in CSS.
+<br>
+<h3>Challenges</h3>
+<br>
+<h3>Takeaways</h3>
+<br>
+<br>
+Based on <a href="https://www.freecodecamp.org">FreeCodeCamp's</a> Responsive Web Design course.
